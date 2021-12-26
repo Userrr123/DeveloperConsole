@@ -12,3 +12,7 @@ The fourth Script (CommandDestroyAll) destroys all spawned Prefabs. (It looks fo
 If you use the Script with the spawn command, don´t forget to also add the first Script to your Folder, where the DeveloperConsole is.
 
 IMOIRTANT: Don´t forget to change the "namespace" of the Scripts, since I used a different one!!!
+
+PS.: The CommansSpawnPrefab doesn´t need to be a Singleton. 
+
+You can remove the "public static CommandSpawnPrefab csp;" at the beginning of the Script and if you do so, also remove the Awake() function.
