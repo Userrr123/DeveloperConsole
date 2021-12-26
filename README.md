@@ -10,3 +10,5 @@ The third Script (CommandDestroy) destroys a spawned Prefab. (It looks for the n
 The fourth Script (CommandDestroyAll) destroys all spawned Prefabs. (It looks for the Prefabs in the List and destroys them and also removes the empty spots from the List).
 
 If you use the Script with the spawn command, don´t forget to also add the first Script to your Folder, where the DeveloperConsole is.
+
+IMOIRTANT: Don´t forget to change the "namespace" of the Scripts, since I used a different one!!!
