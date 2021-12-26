@@ -1,5 +1,5 @@
 Important:
-I made 4 Command Scripts, that might be useful for you guys:
+I made 4 Scripts, that might be useful for you guys:
 
 The first Script (SpawnedObjectsList) is just creating a list that stores all Prefabs, that have been spawned/instantiated with the Console.
 
